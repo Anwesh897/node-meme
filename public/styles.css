@@ -1,0 +1,242 @@
+body{
+    margin: 0;
+}
+.main{
+    margin-left: 0.5%;
+}
+.title {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.title div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.year {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.year div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.rated {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.rated div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.released {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.released div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.runtime {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.runtime div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.genre {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.genre div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.director {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.director div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.writer {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+.writer h4 {
+  margin-top: 0;
+}
+.writer div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.actors {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.actors div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.plot {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+/* .plot h4 {
+  margin-top: 0;
+} */
+.plot div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.language {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.language div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.country {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.country div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.awards {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.awards div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.metascore {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.metascore div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.imdbrating {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.imdbrating div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.imdbvotes {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.imdbvotes div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.imdbid {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.imdbid div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.type {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.type div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.dvd {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.dvd div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.boxoffice {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.boxoffice div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.production {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.production div {
+  margin: auto;
+  margin-left: 1%;
+}
+
+.website {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.website a {
+  margin: auto;
+  margin-left: 1%;
+  cursor: pointer;
+}
+
+.response {
+  display: flex;
+  margin-top: -20px;
+  margin-bottom: -40px;
+}
+.response div {
+  margin: auto;
+  margin-left: 1%;
+}
